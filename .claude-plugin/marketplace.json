@@ -1,0 +1,13 @@
+{
+  "name": "ai-studio-club",
+  "description": "Les outils Claude des membres d'AI Studio Club",
+  "owner": { "name": "AI Studio Club" },
+  "plugins": [
+    {
+      "name": "photoshoot",
+      "displayName": "AI Studio Club",
+      "source": "./plugins/photoshoot",
+      "description": "Lance tes shootings du Club depuis Claude avec /photoshoot"
+    }
+  ]
+}

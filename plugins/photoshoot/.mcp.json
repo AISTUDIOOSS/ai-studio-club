@@ -1,0 +1,6 @@
+{
+  "mcpServers": {
+    "ai-studio-club": { "type": "http", "url": "https://membres.ai-studio-os.com/mcp" },
+    "higgsfield": { "type": "http", "url": "https://mcp.higgsfield.ai/mcp" }
+  }
+}

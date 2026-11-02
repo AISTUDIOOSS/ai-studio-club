@@ -1,0 +1,7 @@
+{
+  "name": "photoshoot",
+  "displayName": "AI Studio Club",
+  "version": "1.0.0",
+  "description": "Lance tes shootings du Club depuis Claude avec /photoshoot",
+  "author": { "name": "AI Studio Club" }
+}
