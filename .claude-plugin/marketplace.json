@@ -7,7 +7,7 @@
       "name": "photoshoot",
       "displayName": "AI Studio Club",
       "source": "./plugins/photoshoot",
-      "description": "Lance tes shootings du Club depuis Claude avec /photoshoot"
+      "description": "Lance tes shootings du Club depuis Claude avec /photoshoot-pro"
     }
   ]
 }
